@@ -1,1 +1,1 @@
-# comp_4037_coursework_2_data_visualization
+# COMP 4037 Ccoursework 2: Data Visualization
